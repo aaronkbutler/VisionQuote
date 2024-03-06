@@ -3,3 +3,5 @@ VisionQuote revolutionizes the way you interact with inspirational quotes by har
 
 ## Support
 Email: <aaronkbutler@icloud.com>
+
+[![Featured on Vision Directory](https://vision.directory/badges/black.svg)](https://vision.directory/apps/visionquote)
